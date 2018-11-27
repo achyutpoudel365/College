@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "58790090003",
+    "firebase_url": "https://myapplication-e8e98.firebaseio.com",
+    "project_id": "myapplication-e8e98",
+    "storage_bucket": "myapplication-e8e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58790090003:android:01c5726a5d3e46de",
+        "android_client_info": {
+          "package_name": "com.example.cecil.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58790090003-akik4ps0ltila39s3cihbua5vkdujpp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cecil.myapplication",
+            "certificate_hash": "c5be1ad3f7a345e61faef2749e6c9d966a82ca0d"
+          }
+        },
+        {
+          "client_id": "58790090003-hbsmjnpif8oilc2pq7co57hif8cjcnpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYIZOb6Voi2uJ6XmLrHpcvB276yQEyHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58790090003-hbsmjnpif8oilc2pq7co57hif8cjcnpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
